@@ -1,7 +1,7 @@
 # mi-primer-repo-sena-Michael-David-Cachaya
 # Mi primer repositorio con GitHub Desktop y Visual Studio Code
  ## Autor
- - Nombre: TU NOMBRE COMPLETO
+ - Nombre: Michael David Cachaya Ordoñez
  ## Descripción del proyecto
  Este repositorio fue creado como práctica del SENA para aprender GitHub Desktop y Visual
 Studio Code.
